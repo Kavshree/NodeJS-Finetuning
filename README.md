@@ -4,6 +4,8 @@ This project is a Node.js application that uploads a training dataset to OpenAI 
 
 This app is designed to fine-tune a language model (GPT-3.5-turbo) to act as an insurance chatbot. It uploads an insurance-specific training dataset (stored in `training_data.jsonl`) to OpenAI and then initiates a fine-tuning job using that file. The resulting model is focused on answering insurance-related questions while filtering out unrelated topics. The main functionality is implemented in index.js
 
+![chan-insurance](https://github.com/user-attachments/assets/1fb12ecb-4305-4ed8-b8cb-0aa0807bd3e6)
+
 ## Project Structure
 
 - **.env** - (To be created one for yourself after you clone) Contains environment variables like the OpenAI API key.
