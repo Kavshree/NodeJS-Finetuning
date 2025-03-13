@@ -1,4 +1,4 @@
-# Insurance App Finetuning
+# JavaScript Insurance App LLM Finetuning
 
 This project is a Node.js application that uploads a training dataset to OpenAI for fine-tuning a model. The fine-tuning job is initiated via the OpenAI API.
 
